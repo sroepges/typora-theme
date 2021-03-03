@@ -1,4 +1,4 @@
-# typora-theme
+# Simple
 
 🎨 A simple theme for Typora.
 
@@ -12,7 +12,7 @@
 4. Click the **Open Theme Folder** button
 5. Move this repo's `simple.css` and `simple` folder into Typora's theme folder
 6. Restart Typora
-7. From the menu, select **Themes > Simple
+7. From the menu, select \*\*Themes > Simple
 
 # Smart Quotes
 
